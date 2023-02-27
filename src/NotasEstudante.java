@@ -3,7 +3,7 @@ public class NotasEstudante {
     public static void main(String[] args) {
         int mediaFinal = 7;
         if (mediaFinal < 6)
-            System.out.println("REPROVADO"); //INDENTAÇÃO EM CADA BLOCO, DEIXA MAIS LEGIVÉL//
+            System.out.println("REPROVADO"); //INDENTAÇÃO HA EM CADA BLOCO, DEIXA MAIS LEGIVÉL//
         else if (mediaFinal == 6)
            System.out.println("PROVA DECISIVA");
         else
